@@ -1,6 +1,11 @@
 # Data Science Bootcamp 10
 My data science and analytics project
 
-## My personal projects
+## My personal project include.
+- Data transformation
+- Data visualization
+- Machine learning
 
-1. ....
+## Tools I used include.
+- R studio
+- Looker studio
